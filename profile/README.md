@@ -5,5 +5,9 @@ minimal, experimental, and shipped for the love of it.
 
 ## about me
 
-i’m [utkarsh](github.com/pro-utkarshM) — i build things close to the metal.  
+i’m [utkarsh](https://github.com/pro-utkarshM) — i build things close to the metal.  
 kernels, systems, and side projects i care enough to ship.
+
+## contact
+
+📫 utkarsh@kernex.sbs
